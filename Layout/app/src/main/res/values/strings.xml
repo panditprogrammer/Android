@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="first_text">This is Demo.</string>
+    <string name="second_text">World</string>
+    <string name="click_me">click me</string>
+    <string name="imageStr">demo image</string>
+</resources>

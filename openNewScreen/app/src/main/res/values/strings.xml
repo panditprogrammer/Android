@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">openNewScreen</string>
+    <string name="secondActivityMessage">This is socond activity</string>
+    <string name="titleOfMainAcitivity">Start New Activity</string>
+    <string name="inputField">Enter some text</string>
+    <string name="openBtn">Open New Activity</string>
+</resources>

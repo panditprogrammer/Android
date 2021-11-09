@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p player</string>
+    <string name="app_header">P Player by Pandit Programmer</string>
+    <string name="pause_btn">Pause</string>
+    <string name="play_btn">Play</string>
+    <string name="stop_btn">Stop</string>
+    <string name="audio_logo">Logo</string>
+    <string name="progress">00:00</string>
+</resources>
